@@ -1,1 +1,65 @@
-theme: jekyll-theme-cayman
+baseurl: ""
+
+profile:
+  name: Sofia Fernandez
+  alias: "Sofia"
+  pic: https://secure.gravatar.com/avatar/0af9b38a38fc253fe6d4b429d016c3b8
+  description: >
+    Hi! My name is Sofía.
+  about: >
+    I studied a Degree on Computer Science in University of Granada.
+    
+  links:
+    "Professional profile":
+      url: https://linkedin.com/in/sofiafernandezmoreno
+      icon: linkedin-square
+    "Projects":
+      url: https://github.com/sofiafernandezmoreno
+      icon: github
+    "Questions and answers":
+      url: http://sofiafernandezmoreno.github.io/ask
+      icon: question-circle
+    "Download my CV":
+      url: cv.pdf
+      icon: file-o
+    "Email":
+      url: chui274@gmail.com
+
+style:
+  background: "ffffff"
+  foreground: "2e3440"
+  accent: "00626e"
+  font: "Source Sans Pro"
+  monofont: "Inconsolata"
+
+# This list helps the index page show the correct collections in the desired order
+featured:
+  tags:
+    - research
+    - projects
+
+# Settings for the blog section
+plugins:
+  - octopress-paginate
+  - jemoji
+#  - jekyll-minifier
+
+exclude:
+  - Gemfile
+  - vendor
+
+defaults:
+  - values:
+      lang: es
+      layout: post
+
+permalink: pretty
+
+markdown: kramdown
+kramdown:
+  parse_span_html: false
+highlighter: rouge
+
+tag_dir: "/tag"
+tag_title_prefix: "Tag '"
+tag_title_suffix: "'"
