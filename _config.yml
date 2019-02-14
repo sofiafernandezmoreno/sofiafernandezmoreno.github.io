@@ -25,8 +25,8 @@ profile:
       icon: envelope-o
 
 style:
-  background: "ffffff"
-  foreground: "2e3440"
+  background: "2e3440"
+  foreground: "ffffff"
   accent: "6e0c00"
   font: "Source Sans Pro"
   monofont: "Inconsolata"
