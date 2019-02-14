@@ -18,9 +18,6 @@ profile:
     "Projects":
       url: https://github.com/sofiafernandezmoreno
       icon: github
-    "Questions and answers":
-      url: http://david.quotient.space/ask
-      icon: question-circle
     "Download my CV":
       url: cv.pdf
       icon: file-o
