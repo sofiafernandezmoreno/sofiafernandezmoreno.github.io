@@ -27,7 +27,7 @@ profile:
 style:
   background: "2e3440"
   foreground: "ffffff"
-  accent: "6e0c00"
+  accent: "ffd5d0"
   font: "Domine"
   monofont: "Roboto"
 
