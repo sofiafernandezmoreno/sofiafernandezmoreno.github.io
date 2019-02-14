@@ -28,8 +28,8 @@ style:
   background: "2e3440"
   foreground: "ffffff"
   accent: "6e0c00"
-  font: "Source Sans Pro"
-  monofont: "Inconsolata"
+  font: "Domine"
+  monofont: "Roboto"
 
 # This list helps the index page show the correct collections in the desired order
 featured:
