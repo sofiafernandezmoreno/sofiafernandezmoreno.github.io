@@ -11,7 +11,7 @@ the portfolio redesign does not update that PDF.
 
 ## Content to confirm before publishing
 
-- BME / SIX: the end month is August; the end year still needs confirmation.
+- BME / SIX: October 2023 — August 2026 (confirmed).
 - Civitatis: current role is Platform Engineer; the start month and year still
   need confirmation. No unconfirmed responsibilities or achievements are listed.
 
